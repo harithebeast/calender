@@ -1,0 +1,82 @@
+[
+  {
+    "id": "1",
+    "title": "Team Meeting",
+    "date": "2025-01-15",
+    "time": "09:00",
+    "duration": 60,
+    "color": "blue"
+  },
+  {
+    "id": "2",
+    "title": "Project Review",
+    "date": "2025-01-15",
+    "time": "10:30",
+    "duration": 90,
+    "color": "green"
+  },
+  {
+    "id": "3",
+    "title": "Client Call",
+    "date": "2025-01-16",
+    "time": "14:00",
+    "duration": 45,
+    "color": "purple"
+  },
+  {
+    "id": "4",
+    "title": "Design Workshop",
+    "date": "2025-01-17",
+    "time": "10:00",
+    "duration": 120,
+    "color": "orange"
+  },
+  {
+    "id": "5",
+    "title": "Lunch Meeting",
+    "date": "2025-01-17",
+    "time": "12:00",
+    "duration": 60,
+    "color": "red"
+  },
+  {
+    "id": "6",
+    "title": "Code Review",
+    "date": "2025-01-20",
+    "time": "15:00",
+    "duration": 30,
+    "color": "indigo"
+  },
+  {
+    "id": "7",
+    "title": "Sprint Planning",
+    "date": "2025-01-22",
+    "time": "09:00",
+    "duration": 120,
+    "color": "teal"
+  },
+  {
+    "id": "8",
+    "title": "All Hands",
+    "date": "2025-01-24",
+    "time": "16:00",
+    "duration": 60,
+    "color": "pink"
+  },
+  {
+    "id": "9",
+    "title": "1:1 Meeting",
+    "date": "2025-01-27",
+    "time": "11:00",
+    "duration": 30,
+    "color": "cyan"
+  },
+  {
+    "id": "10",
+    "title": "Product Demo",
+    "date": "2025-01-29",
+    "time": "14:30",
+    "duration": 45,
+    "color": "yellow"
+  }
+]
